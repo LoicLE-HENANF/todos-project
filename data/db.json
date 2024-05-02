@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": "56a22c95-233a-47fb-a507-b255d597401e",
+      "label": "this is a todos",
+      "done": false
+    },
+    {
+      "id": "f1c7855a-444e-4149-b53d-1a80cd647dff",
+      "label": "aaaa",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": "4155df02-eb40-4a3c-9188-5a3b44099442",
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "createdAt": "2024-05-02T07:56:20.198Z"
+    },
+    {
+      "id": "a5c51c6c-af10-4e0f-98ad-dbb0f78f3778",
+      "username": "admin25",
+      "email": "admin2@admin.com",
+      "password": "admin",
+      "createdAt": "2024-05-02T08:49:47.583Z"
+    }
+  ]
+}
